@@ -15,6 +15,16 @@ public class PuzzleJava{
         return myArray;
     }
 
+    // public int [] getTenRolls() {
+    //     int [] myArray = new int[10];
+    //     Random myRandom = new Ramdom()
+    //     for(int i=0; i<10; i++) {
+    //         myArray[i] = myArray.nextInt(0,20):
+    //         System.out.println(myArray[i])
+    //     }
+    //     return myArray
+    // }
+
 
     public Character randomCharacter( ){
         ArrayList<Character> alpahbet = new ArrayList<Character>();
