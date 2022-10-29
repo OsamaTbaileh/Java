@@ -36,6 +36,11 @@ public class PuzzleJava{
         return randomCharacter;
     }
 
+    // public String [] getRandomLetter() {
+    //     String [] myLetters = {"A", "B", "C"}
+    //     Random myAlph = new Rndom();
+    // }
+
 
     public String createPassword() {
         String pass = "";
