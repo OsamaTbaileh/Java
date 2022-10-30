@@ -26,13 +26,13 @@ class BankAccount {
 
 
     // setters:
-    public void setCheckingBalance(double checkingBalance){
-        this.checkingBalance = checkingBalance;
-    }
+    // public void setCheckingBalance(double checkingBalance){
+    //     this.checkingBalance = checkingBalance;
+    // }
 
-    public void setSavingsBalance(double savingsBalance){
-        this.savingsBalance = savingsBalance;
-    }
+    // public void setSavingsBalance(double savingsBalance){
+    //     this.savingsBalance = savingsBalance;
+    // }
 
 
 
