@@ -21,7 +21,7 @@ public class OmikujiFormController {
 	
 	@RequestMapping(value ="/form", method=RequestMethod.POST)
 	public String processForm(
-			@RequestParam(value="number") String number,
+			@RequestParam(value="number") Integer number,
 			@RequestParam(value="city") String city,
 			@RequestParam(value="person") String person,
 			@RequestParam(value="thing") String thing,
