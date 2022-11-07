@@ -8,12 +8,12 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.axsos.ninjagold</groupId>
-	<artifactId>NinjaGold</artifactId>
+	<groupId>com.axsos.ninjagoldgame</groupId>
+	<artifactId>NinjaGoldGame</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>NinjaGold</name>
-	<description>Ninja Gold Assignment</description>
+	<name>NinjaGoldGame</name>
+	<description>Ninja Gold Game Assignment</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

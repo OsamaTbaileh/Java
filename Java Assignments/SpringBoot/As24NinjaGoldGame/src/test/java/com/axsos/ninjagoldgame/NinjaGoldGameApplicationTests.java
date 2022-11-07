@@ -1,10 +1,10 @@
-package com.axsos.ninjagold;
+package com.axsos.ninjagoldgame;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NinjaGoldApplicationTests {
+class NinjaGoldGameApplicationTests {
 
 	@Test
 	void contextLoads() {

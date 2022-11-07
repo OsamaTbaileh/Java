@@ -1,13 +1,13 @@
-package com.axsos.ninjagold;
+package com.axsos.ninjagoldgame;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NinjaGoldApplication {
+public class NinjaGoldGameApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NinjaGoldApplication.class, args);
+		SpringApplication.run(NinjaGoldGameApplication.class, args);
 	}
 
 }
